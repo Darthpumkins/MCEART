@@ -1,0 +1,84 @@
+{
+  "minecraft": {
+    "version": "1.17.1",
+    "modLoaders": [
+      {
+        "id": "forge-37.0.58",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "MCEART",
+  "version": "69",
+  "author": "",
+  "files": [
+    {
+      "projectID": 59433,
+      "fileID": 3435156,
+      "required": true
+    },
+    {
+      "projectID": 355649,
+      "fileID": 3445622,
+      "required": true
+    },
+    {
+      "projectID": 342584,
+      "fileID": 3454174,
+      "required": true
+    },
+    {
+      "projectID": 341448,
+      "fileID": 3416951,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3420933,
+      "required": true
+    },
+    {
+      "projectID": 367178,
+      "fileID": 3448024,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 3456321,
+      "required": true
+    },
+    {
+      "projectID": 254284,
+      "fileID": 3431236,
+      "required": true
+    },
+    {
+      "projectID": 342543,
+      "fileID": 3456950,
+      "required": true
+    },
+    {
+      "projectID": 276951,
+      "fileID": 3438376,
+      "required": true
+    },
+    {
+      "projectID": 77027,
+      "fileID": 3446929,
+      "required": true
+    },
+    {
+      "projectID": 278717,
+      "fileID": 3398644,
+      "required": true
+    },
+    {
+      "projectID": 257814,
+      "fileID": 3419989,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
